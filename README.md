@@ -12,3 +12,5 @@ Add your name in the list under :-)
 * Rose
 * Josh Zimmerman
 * Ebony
+* Chilli
+* Henrik
