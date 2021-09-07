@@ -2,7 +2,7 @@
 
 Collaborating in an Rstudio project using Github!
 
-# Rose's lab members:
+# Molecular Ecology Lab members:
 
 Add your name in the list under :-)
 
