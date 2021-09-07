@@ -7,3 +7,4 @@ Collaborating in an Rstudio project using Github!
 Add your name in the list under :-)
 
 * Anne-Cecile
+* Rose
