@@ -14,3 +14,4 @@ Add your name in the list under :-)
 * Ebony
 * Chilli
 * Henrik
+* Cassis
